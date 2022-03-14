@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hallenadrian
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning front end developing
+- 💞️ I’m looking to collaborate on making sites for business.
+- 📫 How to reach me : @adrianfaceit on instagram
